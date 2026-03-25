@@ -1,0 +1,21 @@
+{
+  "id": "vector_db_comparison",
+  "title": "Vector Database Comparison",
+  "workflow": "mock",
+  "seed_offset": 23,
+  "prompt": "Compare Pinecone, Weaviate, and pgvector for a production RAG stack. Include scaling model, latency trade-offs, operational burden, and migration risk.",
+  "expected_keywords": [
+    "latency",
+    "throughput",
+    "operational",
+    "migration",
+    "cost",
+    "RAG"
+  ],
+  "metric_weights": {
+    "quality": 0.3,
+    "factuality": 0.3,
+    "compliance": 0.1,
+    "actionability": 0.3
+  }
+}

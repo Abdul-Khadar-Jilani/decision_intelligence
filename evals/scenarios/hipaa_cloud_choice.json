@@ -1,0 +1,21 @@
+{
+  "id": "hipaa_cloud_choice",
+  "title": "HIPAA Cloud Provider Choice",
+  "workflow": "mock",
+  "seed_offset": 37,
+  "prompt": "Recommend an AWS vs GCP cloud architecture for a HIPAA-regulated healthcare analytics platform, including BAA scope, PHI controls, logging, incident response, and cost drivers.",
+  "expected_keywords": [
+    "HIPAA",
+    "BAA",
+    "PHI",
+    "audit",
+    "encryption",
+    "incident"
+  ],
+  "metric_weights": {
+    "quality": 0.25,
+    "factuality": 0.3,
+    "compliance": 0.3,
+    "actionability": 0.15
+  }
+}
