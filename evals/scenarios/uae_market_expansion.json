@@ -1,0 +1,21 @@
+{
+  "id": "uae_market_expansion",
+  "title": "UAE Market Expansion Strategy",
+  "workflow": "mock",
+  "seed_offset": 11,
+  "prompt": "Develop a 12-month market entry strategy for expanding a US fintech product into the UAE. Cover licensing path, local partnerships, hiring plan, launch milestones, and risk mitigation.",
+  "expected_keywords": [
+    "ADGM",
+    "DIFC",
+    "licensing",
+    "partnership",
+    "go-to-market",
+    "risk"
+  ],
+  "metric_weights": {
+    "quality": 0.35,
+    "factuality": 0.25,
+    "compliance": 0.2,
+    "actionability": 0.2
+  }
+}

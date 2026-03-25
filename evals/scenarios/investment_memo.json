@@ -1,0 +1,21 @@
+{
+  "id": "investment_memo",
+  "title": "AI Infrastructure Investment Memo",
+  "workflow": "mock",
+  "seed_offset": 53,
+  "prompt": "Write an investment committee memo evaluating a Series B AI infrastructure startup. Include market size, moat, GTM efficiency, unit economics, key risks, and recommendation.",
+  "expected_keywords": [
+    "TAM",
+    "moat",
+    "CAC",
+    "retention",
+    "valuation",
+    "recommendation"
+  ],
+  "metric_weights": {
+    "quality": 0.35,
+    "factuality": 0.2,
+    "compliance": 0.1,
+    "actionability": 0.35
+  }
+}
